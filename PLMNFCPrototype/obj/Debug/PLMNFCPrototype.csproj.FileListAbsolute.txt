@@ -1,0 +1,27 @@
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\bin\Debug\PLMNFCPrototype.exe.config
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\bin\Debug\PLMNFCPrototype.exe
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\bin\Debug\PLMNFCPrototype.pdb
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_CardActivation.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_EmployeeInformation.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_Login.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_StudentViolation.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_UserAccounts.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.MainForm.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_Colleges.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_Courses.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_EmployeeType.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_StudentInformation.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_ViolationInfo.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Properties.Resources.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_ViolationMemo.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.csproj.GenerateResource.Cache
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.exe
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.pdb
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_About.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_QueryStudentSwipes.resources
+C:\Users\Gerard\Documents\Visual Studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_CardDeactivation.resources
+C:\Users\Gerard\documents\visual studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.csprojResolveAssemblyReference.cache
+C:\Users\Gerard\documents\visual studio 2013\Projects\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.Form_RunSQLScripts.resources
+C:\GitHub\Repositories\PLMNFCPrototype\PLMNFCPrototype\bin\Debug\PLMNFCPrototype.exe.config
+C:\GitHub\Repositories\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.exe
+C:\GitHub\Repositories\PLMNFCPrototype\PLMNFCPrototype\obj\Debug\PLMNFCPrototype.pdb
